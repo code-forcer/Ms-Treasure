@@ -104,4 +104,16 @@
 # sentences (as a comment) on what you think is missing,
 # and why the program currently only allows ONE transaction
 # before it ends. We will cover the fix for this soon.
+
+Challenge: Lists Basics
+Test your understanding of creating, accessing, changing, adding, and removing list items.
+
+Instructions
+Inside the editor, complete the following steps:
+Create a list called colors with the values "red", "green", "blue"
+Print the first item in the list
+Change the second item to "yellow"
+Add "purple" to the end of the list using append()
+Remove "red" from the list using remove()
+Print the list
 # ---------------------------------------------------------
