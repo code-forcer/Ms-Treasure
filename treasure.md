@@ -13,6 +13,8 @@
 
 I recently completed a hands-on **Python training program**, where I learned to build real, working applications instead of just following tutorials. My training covered core Python fundamentals, object-oriented programming, and building interactive desktop/mobile applications with the Kivy framework.
 
+I've also backed this up with self-paced learning on **Sololearn** and **W3Schools**, completing their Python modules and earning certificates along the way.
+
 I'm now looking to apply and grow these skills on real projects — freelance, collaborative, or otherwise.
 
 ---
@@ -28,15 +30,23 @@ I'm now looking to apply and grow these skills on real projects — freelance, c
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-**Budget Tracker App** — a mobile-first personal budgeting app built with Python & Kivy
-- Add, track, and categorize expenses against monthly budgets
-- Interactive charts (pie chart breakdown, budget-vs-actual bar chart)
-- Custom UI components (gradient cards, progress bars, bottom navigation) built from scratch
-- Fully responsive layout that adapts to different screen sizes
+| Project | Description |
+|---|---|
+| 💰 [**budget**](https://github.com/codewithtreasure/budget) | Mobile-first personal budgeting app built with Python & Kivy — expense tracking, interactive pie/bar charts, and custom UI components built from scratch |
+| 🌤️ [**weather_app**](https://github.com/codewithtreasure/weather_app) | A Python weather application |
+| 🍽️ [**restaurant_order_app**](https://github.com/codewithtreasure/restaurant_order_app) | A restaurant ordering system built in Python |
+| 📱 [**python-kivy-app**](https://github.com/codewithtreasure/python-kivy-app) | Practice project exploring Kivy for cross-platform app development |
+| 📈 [**python_market_function**](https://github.com/codewithtreasure/python_market_function) | Python functions for market-related calculations |
+| 📝 [**mycoderepo**](https://github.com/codewithtreasure/mycoderepo) | Training assignment codebase |
 
-*(Repo link — add once uploaded)*
+---
+
+### 📜 Certifications
+
+- ✅ **Sololearn** — Python course certificate(s)
+- ✅ **W3Schools** — completed all Python class modules with certificates
 
 ---
 
